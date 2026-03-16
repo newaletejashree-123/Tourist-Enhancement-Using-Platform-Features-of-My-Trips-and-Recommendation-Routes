@@ -1,0 +1,2 @@
+# Tourist-Enhancement-Using-Platform-Features-of-My-Trips-and-Recommendation-Routes
+ “Tourist Enhancement Using Platform Features of My Trips and Recommendation Routes.” The project recreates web interface screens from the research paper using HTML and CSS. It includes pages such as Home, Recommendation Routes, Route Details, My Trips, Create Trip, and Trip Details to simulate a simple tourism trip planning website.
